@@ -1,0 +1,21 @@
+.avatar {
+    text-align: center;
+}
+
+.avatar-img {
+    margin-bottom: 13px;
+    width: 57.44px;
+    height: 57.44px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.avatar-name {
+    font-size: 12px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 157%;
+    text-align: center;
+}
+
